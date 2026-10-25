@@ -14,7 +14,7 @@ PocketSynth is a small DIY electronic instrument built around a classic Arduino 
 Playing notes
 Press any note button to play its assigned note. Up to four pressed note buttons are processed at once. If more than four note buttons are held, the firmware uses the first four pressed keys in the sketch's pin-array order (D2 through D9); additional held keys are ignored until one of those selected keys is released.
 
-##Changing octaves
+## Changing octaves
 Press the button connected to D11 to cycle through the octave settings:
 1. Normal — the frequencies listed in the pinout table
 2. High — frequencies doubled
