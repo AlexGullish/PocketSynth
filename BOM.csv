@@ -1,0 +1,6 @@
+Item,Qty,Supplier,Cost/item,Total Cost,link
+PCB,1,JLCPCB,$8.10,$8.10,https://cart.jlcpcb.com/quote?stencilLayer=2&stencilWidth=100&stencilLength=100&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010
+Piezo Buzzer,1,BastelGarage,$1.82,$1.82,https://www.bastelgarage.ch/piezo-buzzer-summer-aktiv?search=piezo
+Arduino Nano,1,Amazon,$11.99,$11.99,https://www.amazon.com/LUIRSAY-2Pcs-ATmega328P-Microcontroller-Compatible/dp/B0F1FQMNXM?crid=2W5GSQBC3HIJB&dib=eyJ2IjoiMSJ9.lGGUnkwyBAbnKti6S6SwYP2c6x-UGxlnKYzt2PNPgECSCdozHIAZ0OdamOZFqWbMvz8xpCRb1nKdGy6rfSHLUQPwaf3XGjoTjaAqPtBrrFQidVU9YVl90a602_HgnH4SrCyEkPTpDEKaLqP4j7S698Nc5fnB4vXDp_cE3KJylL8MgglIj20uxDazyTZKai4Y2EyphATkz1YSZvYsvpz0hkyqVcIGBWoc2mZFOu4FiWo.LpxEV_klTvgMHI9_awVb41E-o6UUeTSc5VZ7_uwAcRE&dib_tag=se&keywords=arduino+nano&qid=1792962564&sprefix=arduino+nan%2Caps%2C237&sr=8-3
+Switches,9,BerryBase,$1.12,$10.08,https://www.berrybase.ch/en/cherry-mx-blue-pushbutton-module-pcb-fixing-pin
+Estimated total shipping,1,,,$0.00,
